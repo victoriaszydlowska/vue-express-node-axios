@@ -12,13 +12,13 @@ The project uses graphic design and picture edited in GIMP. The graphic design i
 
 
 ## References: 
+https://chat.openai.com/c/0405eed0-9a34-4dd8-a6d9-688b103e2453 <br>
 https://www.scaler.com/topics/expressjs-tutorial/integrating-express-with-vue/ <br>
 https://www.youtube.com/watch?v=C0pXaNchNTA&t=2835s <br>
 https://www.boot.dev/learn/build-link-analyzer <br>
 https://reintech.io/blog/getting-started-with-vuejs-and-nodejs?fbclid=IwAR1bgXwD01YgX-2JLcOxx5VcSViVgBia-dmAy2aRziI7Jo8NDmtuDyMmcb4 <br>
 https://www.bezkoder.com/serve-vue-app-express/ <br>
 https://www.w3schools.com/cssref/pr_background-image.php <br>
-https://chat.openai.com/c/0405eed0-9a34-4dd8-a6d9-688b103e2453 <br>
 https://www.youtube.com/watch?v=gVb1g5PF76Y <br>
 https://blog.hubspot.com/website/typing-animation-css#:~:text=How <br>
 https://fonts.google.com/specimen/Anton <br>
