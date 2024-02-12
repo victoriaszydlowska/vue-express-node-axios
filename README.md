@@ -1,6 +1,8 @@
 ### Vue, Node, Express, Axios web application
 
-Please run npm install to setup a project. Open two powershell terminals. And run npm run serve in one of them, and node index.js in another to run both front-end and back-end.
+Project created as a part of evaluation process for the Junior Full Stack Developer role for Koroutine. It is based on the requirements provided by the company in the "Full-Stack Developer Challenge" document.
+
+#### Please run npm install to setup a project. Open two powershell terminals. And run npm run serve in one of them, and node index.js in another to run both, front-end and back-end.
 
 Description has been included in the content of the web application as well.
 
