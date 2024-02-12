@@ -2,6 +2,7 @@
 
 Please run npm install to setup a project. Open two powershell terminals. And run npm run serve in one of them, and node index.js in another to run both front-end and back-end.
 
+Description included in the content of the web page as well. 
 This is a full stack web application that allows user to check all the links connected to the URL provided in the form within the same domain.
 It uses Vue.js as a front-end framework with back-end being Node.js and Express. Axios allow fetching data and sending data between back-end and front-end. It receives data from Express back-end. It sends the URL provided in the form to the back-end, acts on data to then receiving a response that is generated on the web page. The body-parser is a middleware that allows accessing data sent from Axios on the Node.js and Express side and using it in the next stages. Require module allows to fetch HTML content of the provided URL. Application handles some of the errors. It returns a list of links, sends a message if there aren't any found, handles status responses received or catches an error (try, catch to return an invalid link). 
 
